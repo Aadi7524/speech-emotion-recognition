@@ -43,9 +43,34 @@ Emotions detected: angry, calm, disgust, fearful, happy, neutral, sad, surprised
 
 ## 🖥️ How to Run Locally
 
-```bash
+<pre> 
 git clone https://github.com/Aadi7524/speech-emotion-recognition.git
 cd speech-emotion-recognition
 pip install -r requirements.txt
-python app.py
+python app.py  </pre>
+
+---
+
+## 📁 File Structure
+<pre>
+.
+├── app.py                 # Gradio interface
+├── human_model.h5         # Trained CNN model
+├── requirements.txt       # Dependencies
+├── README.md              # Project description
+</pre>
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙋‍♂️ Author
+
+🔗 [GitHub Profile](https://github.com/Aadi7524)
+
+🤗 [Hugging Face Profile](https://huggingface.co/Aadi75240/spaces)
+
 
