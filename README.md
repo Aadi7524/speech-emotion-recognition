@@ -49,3 +49,18 @@ cd speech-emotion-recognition
 pip install -r requirements.txt
 python app.py
 
+.File Structure
+├── app.py                # Gradio app
+├── human_model.h5        # Trained CNN model
+├── requirements.txt      # Dependencies
+├── README.md             # This file
+
+📜 License
+This project is licensed under the MIT License.
+
+🙋‍♂️ Author
+Aditya
+GitHub
+Hugging Face
+
+
