@@ -72,6 +72,7 @@ This project is licensed under the MIT License.
 ## 🙋‍♂️ Author
 
 Aditya
+
 🔗 [GitHub Profile](https://github.com/Aadi7524)
 
 🤗 [Hugging Face Profile](https://huggingface.co/Aadi75240)
